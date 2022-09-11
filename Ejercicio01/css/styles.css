@@ -1,0 +1,36 @@
+body {
+    background: url(../src/bg.jpg);
+    background-size: cover;
+}
+
+.w-33 {
+    width: 33%;
+}
+
+.text-grey {
+    color: grey;
+}
+
+w-auto {
+    width: auto;
+}
+
+.f-32 {
+    font-size: 32px;
+}
+
+.bg-lightgray {
+    background-color: lightgray;
+}
+
+.btn-aqua {
+    background-color: aqua;
+}
+
+.w-80 {
+    width: 80%;
+}
+
+.m-0-auto {
+    margin: 0 auto;
+}
